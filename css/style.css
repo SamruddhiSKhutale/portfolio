@@ -447,6 +447,13 @@ img {
   animation-delay: 2.4s;
 }
 
+.badge-devops {
+  top: 60px;
+  left: -20px;
+  color: #22c55e;
+  animation-delay: 1.8s;
+}
+
 @keyframes float {
   0%, 100% { transform: translateY(0); }
   50% { transform: translateY(-12px); }
